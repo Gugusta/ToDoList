@@ -18,4 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Gustavo Serão 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/gustavoserao-engenhariadacomputacao/)
+Made with 💜 &nbsp;by Gustavo Serão 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/gustavoserao/)
